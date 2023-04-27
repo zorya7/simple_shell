@@ -15,7 +15,7 @@
 
 /************* ASSIST **************/
 
-#include "assist.h" /* for msg help and prompt */
+#include "expand.h" /* for msg help and prompt */
 
 /************* STRUCTURES **************/
 
